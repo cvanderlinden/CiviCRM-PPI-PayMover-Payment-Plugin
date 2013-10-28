@@ -1,11 +1,11 @@
  <?php
-/* Author: 			Craig Vanderlinden (cvanderlinden)
+/* Author: 		Craig Vanderlinden (cvanderlinden)
 ** Created Date:	January 3 2011
 ** Last Modified:	March 1 2012
-** Purpose:			Installing PayMover to CiviCRM
-** Notes:			PPI PayMover Version 12.10.0
-**					CiviCRM Version 3.4
-**					Drupal Version 6
+** Purpose:		Installing PayMover to CiviCRM
+** Notes:		PPI PayMover Version 12.10.0
+**			CiviCRM Version 3.4
+**			Drupal Version 6
 */
 
 
